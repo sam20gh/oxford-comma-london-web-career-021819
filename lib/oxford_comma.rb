@@ -8,5 +8,3 @@ if array.length < 2
     str = array.join(", ") << str
   end
 end
-
-end
